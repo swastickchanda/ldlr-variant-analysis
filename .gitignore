@@ -1,5 +1,11 @@
-.Rhistory
-.RData
-.Ruserdata
+cadd_input_*.tsv
+cadd_ready*.txt
+cadd_ready_ldlr.tsv
+filtered_*.tsv
+ldlr_final_acmg_*.tsv
+ldlr_ligand_domain_*.tsv
+ldlr_variant_distribution.png
+vep_ready.txt
+man/
 .Rproj.user/
-  *.Rapp.history
+.Rhistory
