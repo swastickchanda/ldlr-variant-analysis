@@ -27,3 +27,20 @@ An automated R-based bioinformatics pipeline designed to extract, filter, and re
 * **Language:** R (Version 4.6+)
 * **Core Libraries:** `dplyr` (data wrangling), `ggplot2` (visualization), `readr` (file I/O)
 * **Data Sources:** ClinVar, CADD (Combined Annotation Dependent Depletion)
+
+## Interactive Shiny Dashboard
+
+An interactive Shiny web application designed to empower real-time exploration, filtering, and visualization of reclassified *LDLR* missense variants.
+
+### Key Features
+* **Reactive Data Filtering**: Dynamically explore variants powered by the underlying `cadd_ready_ldlr.tsv` dataset.
+* **Domain Visualizations**: Integrated `ggplot2` visualizations mapping variant distributions across protein functional domains.
+* **Summary Metrics**: Real-time tracking of variant counts and functional impact tiers.
+
+### Running the App Locally
+Clone or open this repository in RStudio, make sure you have the required packages installed, and launch the dashboard directly from your R console:
+
+```r
+install.packages(c("shiny", "tidyverse", "ggplot2"))
+shiny::runApp()
+
