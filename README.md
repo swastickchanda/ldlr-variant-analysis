@@ -37,8 +37,14 @@ An interactive Shiny web application designed to empower real-time exploration, 
 * **Domain Visualizations**: Integrated `ggplot2` visualizations mapping variant distributions across protein functional domains.
 * **Summary Metrics**: Real-time tracking of variant counts and functional impact tiers.
 
+## Interactive Shiny Dashboard
+
+An interactive Shiny web application designed to empower real-time exploration, filtering, and visualization of reclassified *LDLR* missense variants.
+
+🌐 **[Access the Live Web Application](https://swastick.shinyapps.io/disease/)**
+
 ### Running the App Locally
-Clone or open this repository in RStudio, make sure you have the required packages installed, and launch the dashboard directly from your R console:
+If you prefer to clone or open this repository in RStudio and run the dashboard locally, execute the following commands in your R console:
 
 ```r
 install.packages(c("shiny", "tidyverse", "ggplot2"))
