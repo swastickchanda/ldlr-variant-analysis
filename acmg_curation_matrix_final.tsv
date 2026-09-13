@@ -1,0 +1,7 @@
+Protein change	VariationID	CADD_PHRED	ClinVar Review Status	ACMG Evidence & Literature Mapping
+T62R	375775	26.5	Expert Panel	High computational damage; requires co-segregation check or direct functional assay to resolve VUS status.
+T62M	161273	26.5	Expert Panel	BS3 (Benign): In vitro assays (PMID: 30413722) confirm fully functional LDL binding and uptake.
+D47Y	996231	25.3	Expert Panel	Located in LR1 ligand-binding domain cluster; positional match to D47 functional data context.
+D47H	440546	25.3	Expert Panel	Positional residue cluster member; basic substitution evaluating local electrostatic shift.
+D47N	251034	25.3	Expert Panel	BS3 (Benign): Evaluated alongside T62M in PMID: 30413722 showing normal LDL receptor activity.
+D54A	1061080	25.2	Single Submitter	Charge-neutralizing alanine shift; relies on gnomAD minor allele frequency and submitter assertions.

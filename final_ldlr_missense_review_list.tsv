@@ -1,0 +1,7 @@
+Protein change	CADD_PHRED	Germline review status	VariationID	Chromosome	PositionVCF	ReferenceAlleleVCF	AlternateAlleleVCF
+T62R	26.5	reviewed by expert panel	375775	19	11105231	T	C
+T62M	26.5	reviewed by expert panel	161273	19	11105231	T	C
+D47Y	25.3	reviewed by expert panel	996231	19	11105537	C	G
+D47H	25.3	reviewed by expert panel	440546	19	11105537	C	G
+D47N	25.3	reviewed by expert panel	251034	19	11105537	C	G
+D54A	25.2	criteria provided, single submitter	1061080	19	11102772	A	T

@@ -1,0 +1,210 @@
+Gene_Symbol	ClinicalSignificance	Chromosome	PositionVCF	ReferenceAlleleVCF	AlternateAlleleVCF	RS	ACMG_Tier	CADD_PHRED
+LDLR	Uncertain significance	19	11100325	A	G	1555802310	VUS	35
+PCSK9	Uncertain significance	1	55052791	G	C	-1	VUS	34
+PCSK9	Uncertain significance	1	55046553	G	A	776150122	VUS	33
+PCSK9	Conflicting classifications of pathogenicity	1	55046579	G	C	1305635836	VUS	33
+LDLR	Uncertain significance	19	11100316	A	T	2147210651	VUS	32
+LDLR	Uncertain significance	19	11102699	G	T	574337291	VUS	31
+LDLR	Uncertain significance	19	11100287	G	C	1555802287	VUS	31
+APOB	Conflicting classifications of pathogenicity	2	21011803	G	A	780820172	VUS	29.4
+LDLR	Uncertain significance	19	11102691	T	G	-1	VUS	29.3
+LDLR	Uncertain significance	19	11102676	G	T	2077229853	VUS	29.2
+APOB	Uncertain significance	2	21013269	C	G	1663380295	VUS	28.9
+LDLR	Uncertain significance	19	11100264	G	A	2077193497	VUS	28.7
+LDLR	Uncertain significance	19	11102696	T	G	879254439	VUS	28.7
+LDLR	Uncertain significance	19	11100343	G	A	879254427	VUS	28.5
+LDLR	Uncertain significance	19	11100286	G	T	267607213	VUS	28.5
+LDLR	Uncertain significance	19	11102732	T	C	121908025	VUS	28.4
+LDLR	Conflicting classifications of pathogenicity	19	11105585	G	C	2077282480	VUS	28.4
+LDLR	Uncertain significance	19	11102721	T	C	1555802745	VUS	28.3
+LDLR	Uncertain significance	19	11102705	C	T	370860696	VUS	28.2
+LDLR	Conflicting classifications of pathogenicity	19	11106633	T	G	879254668	VUS	28.2
+LDLR	Uncertain significance	19	11100343	G	T	879254427	VUS	28.2
+LDLR	Uncertain significance	19	11100324	G	A	879254420	VUS	28.1
+APOB	Conflicting classifications of pathogenicity	2	21012570	G	A	200708197	VUS	28.1
+LDLR	Uncertain significance	19	11107419	T	G	2077311848	VUS	28
+LDLR	Uncertain significance	19	11107419	T	C	2077311848	VUS	28
+LDLR	Uncertain significance	19	11100324	G	C	879254420	VUS	28
+LDLR	Uncertain significance	19	11102699	G	C	574337291	VUS	27.9
+LDLR	Conflicting classifications of pathogenicity	19	11106652	G	A	121908040	VUS	27.8
+LDLR	Conflicting classifications of pathogenicity	19	11100270	T	C	1555802275	VUS	27.8
+LDLR	Uncertain significance	19	11100271	G	A	-1	VUS	27.8
+LDLR	Conflicting classifications of pathogenicity	19	11105441	G	A	879254567	VUS	27.7
+LDLR	Conflicting classifications of pathogenicity	19	11100250	T	C	879254403	VUS	27.7
+PCSK9	Uncertain significance	1	55046560	A	G	-1	VUS	27.7
+APOB	Conflicting classifications of pathogenicity	2	21009309	C	T	199852015	VUS	27.6
+APOB	Uncertain significance	2	21012294	G	A	-1	VUS	27.6
+PCSK9	Uncertain significance	1	55046559	G	A	2523195553	VUS	27.5
+LDLR	Uncertain significance	19	11102714	C	A	730882078	VUS	27.4
+LDLR	Conflicting classifications of pathogenicity	19	11106651	T	C	1372739823	VUS	27.4
+APOB	Conflicting classifications of pathogenicity	2	21013265	C	T	780170292	VUS	27.4
+LDLR	Uncertain significance	19	11100285	T	C	935456931	VUS	27.4
+APOB	Conflicting classifications of pathogenicity	2	21012073	G	A	191145848	VUS	27.3
+LDLR	Uncertain significance	19	11107425	G	C	879254694	VUS	27.2
+LDLR	Uncertain significance	19	11102675	T	G	1057519652	VUS	27.2
+LDLR	Conflicting classifications of pathogenicity	19	11105253	G	A	879254485	VUS	27.2
+APOB	Uncertain significance	2	21013357	A	G	755257567	VUS	27.2
+LDLR	Conflicting classifications of pathogenicity	19	11100235	G	A	1600700344	VUS	27.2
+APOB	Uncertain significance	2	21013348	G	A	-1	VUS	27.2
+APOB	Uncertain significance	2	21013516	T	C	-1	VUS	27.2
+PCSK9	Uncertain significance	1	55052710	G	A	751048732	VUS	27.1
+APOB	Uncertain significance	2	21013276	T	C	2465380889	VUS	27.1
+PCSK9	Uncertain significance	1	55052768	G	A	2523228351	VUS	27.1
+LDLR	Uncertain significance	19	11107433	G	A	375495026	VUS	27
+LDLR	Conflicting classifications of pathogenicity	19	11100310	G	A	879254418	VUS	27
+LDLR	Uncertain significance	19	11106579	C	T	879254657	VUS	27
+LDLR	Uncertain significance	19	11106657	G	A	-1	VUS	27
+LDLR	Uncertain significance	19	11106649	A	G	2077300243	VUS	26.8
+APOB	Conflicting classifications of pathogenicity	2	21010689	T	C	753938407	VUS	26.8
+PCSK9	Uncertain significance	1	55046553	G	C	776150122	VUS	26.8
+APOB	Uncertain significance	2	21010443	A	G	-1	VUS	26.8
+LDLR	Uncertain significance	19	11100274	T	C	-1	VUS	26.8
+APOB	Uncertain significance	2	21009321	A	G	-1	VUS	26.8
+PCSK9	Uncertain significance	1	55052410	A	G	2523225083	VUS	26.7
+PCSK9	Uncertain significance	1	55052767	G	A	-1	VUS	26.7
+APOB	Conflicting classifications of pathogenicity	2	21009318	T	C	776408645	VUS	26.6
+APOB	Conflicting classifications of pathogenicity	2	21011179	G	A	189341276	VUS	26.6
+LDLR	Conflicting classifications of pathogenicity	19	11105231	T	C	140807148	VUS	26.5
+LDLR	Uncertain significance	19	11100340	C	G	376207800	VUS	26.5
+PCSK9	Uncertain significance	1	55052334	C	T	200027662	VUS	26.5
+LDLR	Conflicting classifications of pathogenicity	19	11106669	G	A	879254679	VUS	26.4
+PCSK9	Uncertain significance	1	55052659	T	C	1644684082	VUS	26.4
+LDLR	Uncertain significance	19	11107418	T	C	2077311809	VUS	26.4
+PCSK9	Uncertain significance	1	55052407	G	T	1644681544	VUS	26.4
+PCSK9	Uncertain significance	1	55052310	G	C	1307418122	VUS	26.4
+APOB	Uncertain significance	2	21010927	A	C	2465373141	VUS	26.4
+LDLR	Uncertain significance	19	11100306	G	A	-1	VUS	26.4
+PCSK9	Uncertain significance	1	55052753	A	T	-1	VUS	26.4
+LDLR	Uncertain significance	19	11105385	G	A	879254541	VUS	26.3
+APOB	Uncertain significance	2	21011163	G	A	368848646	VUS	26.3
+PCSK9	Uncertain significance	1	55052650	G	A	768795323	VUS	26.2
+LDLR	Uncertain significance	19	11100325	A	C	1555802310	VUS	26.2
+APOB	Uncertain significance	2	21013351	A	T	1558566309	VUS	26.2
+APOB	Uncertain significance	2	21013477	A	G	1463222984	VUS	26.2
+LDLR	Uncertain significance	19	11100273	A	T	765969972	VUS	26.2
+APOB	Conflicting classifications of pathogenicity	2	21013465	C	A	142798172	VUS	26.2
+PCSK9	Uncertain significance	1	55052391	G	A	267598661	VUS	26.1
+LDLR	Conflicting classifications of pathogenicity	19	11105535	T	A	879254601	VUS	26.1
+APOB	Conflicting classifications of pathogenicity	2	21013349	G	A	374427541	VUS	26.1
+APOB	Conflicting classifications of pathogenicity	2	21013451	C	G	1373269458	VUS	26.1
+PCSK9	Uncertain significance	1	55052308	T	C	2523223921	VUS	26.1
+APOB	Uncertain significance	2	21013171	T	C	2465380536	VUS	26.1
+APOB	Uncertain significance	2	21013459	G	A	-1	VUS	26.1
+LDLR	Conflicting classifications of pathogenicity	19	11106592	T	C	748131256	VUS	26
+APOB	Uncertain significance	2	21011598	A	G	2465375548	VUS	26
+PCSK9	Uncertain significance	1	55052662	G	C	1644684119	VUS	26
+LDLR	Uncertain significance	19	11106622	G	A	2077299288	VUS	26
+APOB	Uncertain significance	2	21013348	G	C	-1	VUS	26
+LDLR	Uncertain significance	19	11107424	T	A	879254693	VUS	25.9
+APOB	Conflicting classifications of pathogenicity	2	21010317	T	C	184512808	VUS	25.9
+APOB	Conflicting classifications of pathogenicity	2	21011940	G	A	1008238083	VUS	25.9
+LDLR	Conflicting classifications of pathogenicity	19	11105583	C	T	879254636	VUS	25.9
+LDLR	Uncertain significance	19	11107419	T	A	2077311848	VUS	25.9
+APOB	Conflicting classifications of pathogenicity	2	21013175	A	G	781141343	VUS	25.9
+LDLR	Conflicting classifications of pathogenicity	19	11100322	C	T	-1	VUS	25.9
+APOB	Uncertain significance	2	21011770	C	T	-1	VUS	25.9
+PCSK9	Uncertain significance	1	55046523	G	A	-1	VUS	25.9
+PCSK9	Uncertain significance	1	55052755	T	G	-1	VUS	25.9
+APOB	Conflicting classifications of pathogenicity	2	21011802	C	T	151009667	VUS	25.8
+APOB	Uncertain significance	2	21011085	T	C	1208280826	VUS	25.8
+PCSK9	Uncertain significance	1	55046563	C	T	2100276054	VUS	25.8
+LDLR	Conflicting classifications of pathogenicity	19	11105436	C	G	121908026	VUS	25.8
+LDLR	Uncertain significance	19	11105442	A	C	879254568	VUS	25.8
+LDLR	Uncertain significance	19	11107407	G	A	2515977272	VUS	25.8
+LDLR	Uncertain significance	19	11106592	T	G	748131256	VUS	25.7
+APOB	Conflicting classifications of pathogenicity	2	21009025	G	A	143056106	VUS	25.7
+LDLR	Conflicting classifications of pathogenicity	19	11105307	G	C	879254514	VUS	25.7
+APOB	Uncertain significance	2	21012210	C	T	1663344384	VUS	25.7
+PCSK9	Uncertain significance	1	55052687	G	A	-1	VUS	25.7
+APOB	Uncertain significance	2	21013259	A	G	-1	VUS	25.7
+LDLR	Conflicting classifications of pathogenicity	19	11105553	G	T	879254611	VUS	25.6
+LDLR	Uncertain significance	19	11105246	T	A	776716507	VUS	25.6
+PCSK9	Uncertain significance	1	55052335	G	A	748155397	VUS	25.6
+APOB	Conflicting classifications of pathogenicity	2	21011434	C	A	140174653	VUS	25.6
+APOB	Uncertain significance	2	21011665	C	T	1173916995	VUS	25.6
+APOB	Uncertain significance	2	21013414	A	G	967949278	VUS	25.6
+LDLR	Uncertain significance	19	11106585	G	A	2515973081	VUS	25.6
+APOB	Uncertain significance	2	21013268	A	C	-1	VUS	25.6
+APOB	Uncertain significance	2	21010690	A	G	-1	VUS	25.6
+APOB	Uncertain significance	2	21009003	G	A	-1	VUS	25.6
+LDLR	Uncertain significance	19	11102724	C	T	875989892	VUS	25.5
+APOB	Conflicting classifications of pathogenicity	2	21011269	G	A	200583769	VUS	25.5
+LDLR	Uncertain significance	19	11106576	T	A	879254655	VUS	25.5
+PCSK9	Uncertain significance	1	55052713	G	A	147478188	VUS	25.5
+PCSK9	Conflicting classifications of pathogenicity	1	55043945	C	T	369067856	VUS	25.5
+LDLR	Uncertain significance	19	11102715	G	A	1299591218	VUS	25.5
+LDLR	Uncertain significance	19	11105312	G	A	2077270167	VUS	25.5
+APOB	Conflicting classifications of pathogenicity	2	21011500	G	C	759803636	VUS	25.5
+LDLR	Conflicting classifications of pathogenicity	19	11105292	A	C	879254507	VUS	25.5
+APOB	Uncertain significance	2	21011943	T	C	1046000998	VUS	25.5
+LDLR	Uncertain significance	19	11100304	C	G	-1	VUS	25.5
+APOB	Uncertain significance	2	21012292	A	G	-1	VUS	25.5
+LDLR	Uncertain significance	19	11105583	C	A	-1	VUS	25.5
+LDLR	Uncertain significance	19	11102724	C	G	875989892	VUS	25.4
+APOB	Uncertain significance	2	21012277	T	G	1169900515	VUS	25.4
+PCSK9	Uncertain significance	1	55043877	T	A	1048283339	VUS	25.4
+LDLR	Uncertain significance	19	11105526	G	A	759737884	VUS	25.4
+LDLR	Uncertain significance	19	11100294	G	T	778284147	VUS	25.4
+APOB	Uncertain significance	2	21013529	C	A	2103361101	VUS	25.4
+APOB	Uncertain significance	2	21010861	C	A	773502213	VUS	25.4
+APOB	Uncertain significance	2	21011710	C	T	995589361	VUS	25.4
+PCSK9	Uncertain significance	1	55052662	G	A	1644684119	VUS	25.4
+APOB	Uncertain significance	2	21009579	A	T	1663248267	VUS	25.4
+APOB	Uncertain significance	2	21011412	A	G	-1	VUS	25.4
+LDLR	Uncertain significance	19	11100294	G	A	778284147	VUS	25.3
+LDLR	Conflicting classifications of pathogenicity	19	11105537	C	G	771917370	VUS	25.3
+PCSK9	Uncertain significance	1	55052743	C	T	778900671	VUS	25.3
+APOB	Conflicting classifications of pathogenicity	2	21010788	G	T	892830346	VUS	25.3
+APOB	Conflicting classifications of pathogenicity	2	21012589	G	A	759979553	VUS	25.3
+APOB	Uncertain significance	2	21013261	G	A	930883549	VUS	25.3
+APOB	Uncertain significance	2	21009492	A	T	2465369086	VUS	25.3
+APOB	Uncertain significance	2	21009240	T	C	-1	VUS	25.3
+APOB	Uncertain significance	2	21010683	T	C	-1	VUS	25.3
+APOB	Uncertain significance	2	21010350	T	G	-1	VUS	25.3
+PCSK9	Uncertain significance	1	55052380	C	T	-1	VUS	25.3
+PCSK9	Uncertain significance	1	55052320	T	C	-1	VUS	25.3
+LDLR	Uncertain significance	19	11105244	A	C	-1	VUS	25.3
+APOB	Conflicting classifications of pathogenicity	2	21013198	G	A	143282164	VUS	25.2
+LDLR	Conflicting classifications of pathogenicity	19	11102772	A	T	879254460	VUS	25.2
+PCSK9	Uncertain significance	1	55052698	G	A	149489325	VUS	25.2
+LDLR	Conflicting classifications of pathogenicity	19	11105306	T	G	875989900	VUS	25.2
+PCSK9	Conflicting classifications of pathogenicity	1	55052397	C	T	753505066	VUS	25.2
+APOB	Uncertain significance	2	21011101	G	A	746220914	VUS	25.2
+LDLR	Uncertain significance	19	11100316	A	C	2147210651	VUS	25.2
+LDLR	Conflicting classifications of pathogenicity	19	11105288	T	G	879254505	VUS	25.2
+PCSK9	Uncertain significance	1	55052750	T	A	-1	VUS	25.2
+LDLR	not provided	19	11107401	G	C	730882089	VUS	25.1
+LDLR	Conflicting classifications of pathogenicity	19	11105303	G	A	879254513	VUS	25.1
+LDLR	Conflicting classifications of pathogenicity	19	11105511	T	C	879254590	VUS	25.1
+LDLR	Conflicting classifications of pathogenicity	19	11106670	A	C	879254680	VUS	25.1
+APOB	Conflicting classifications of pathogenicity	2	21013526	G	A	376768346	VUS	25.1
+LDLR	Uncertain significance	19	11100294	G	C	778284147	VUS	25.1
+LDLR	Conflicting classifications of pathogenicity	19	11105304	A	C	1317204420	VUS	25.1
+PCSK9	Uncertain significance	1	55046602	G	A	367620267	VUS	25.1
+LDLR	Uncertain significance	19	11105511	T	G	879254590	VUS	25.1
+PCSK9	Uncertain significance	1	55052746	G	A	149139428	VUS	25.1
+PCSK9	Uncertain significance	1	55052764	A	G	771479424	VUS	25.1
+LDLR	Uncertain significance	19	11105291	G	A	2077269298	VUS	25.1
+APOB	Uncertain significance	2	21011304	G	A	774080084	VUS	25.1
+APOB	Conflicting classifications of pathogenicity	2	21009117	C	A	370426974	VUS	25.1
+APOB	Uncertain significance	2	21011247	C	T	-1	VUS	25.1
+APOB	Uncertain significance	2	21011634	G	A	-1	VUS	25.1
+APOB	Uncertain significance	2	21009063	A	C	-1	VUS	25.1
+LDLR	Uncertain significance	19	11106627	C	G	-1	VUS	25.1
+LDLR	Conflicting classifications of pathogenicity	19	11105406	G	C	879254548	VUS	25
+PCSK9	Uncertain significance	1	55043952	G	T	370751343	VUS	25
+PCSK9	Uncertain significance	1	55052716	G	A	1238510123	VUS	25
+APOB	Conflicting classifications of pathogenicity	2	21010071	A	C	766005962	VUS	25
+APOB	Conflicting classifications of pathogenicity	2	21011425	G	A	144341880	VUS	25
+APOB	Uncertain significance	2	21013282	T	C	1349004240	VUS	25
+PCSK9	Uncertain significance	1	55052752	A	T	1644685146	VUS	25
+LDLR	Uncertain significance	19	11105556	A	T	2077279531	VUS	25
+LDLR	Uncertain significance	19	11102709	T	A	2515955683	VUS	25
+PCSK9	Uncertain significance	1	55052717	C	T	374014696	VUS	25
+APOB	Uncertain significance	2	21012639	G	T	-1	VUS	25
+APOB	Conflicting classifications of pathogenicity	2	21011349	T	C	-1	VUS	25
+APOB	Uncertain significance	2	21012006	G	A	-1	VUS	25
+APOB	Uncertain significance	2	21011271	T	C	-1	VUS	25
+APOB	Uncertain significance	2	21010323	T	C	-1	VUS	25
+APOB	Uncertain significance	2	21010623	T	C	-1	VUS	25
+APOB	Uncertain significance	2	21012219	A	C	-1	VUS	25
